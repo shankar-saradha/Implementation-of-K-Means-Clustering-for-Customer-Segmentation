@@ -15,7 +15,7 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 5. Print the outputs and end the program
 
 ## Program:
-```
+```Python 
 /*
 Program to implement the K Means Clustering for Customer Segmentation.
 Developed by: Shankar Saradha 
